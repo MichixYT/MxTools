@@ -1,4 +1,4 @@
 # MxTools
-English REAMDE: https://github.com/MichixYT/MxTools/blob/main/README_EN.md
+Polish README: https://github.com/MichixYT/MxTools/blob/main/README_PL.md
 
-MxTools to Essentialsowy plugin, który dodaje wiele funkcji między innymi: format chatu (w dodatku MxToolsChat), spawn i domy graczy (w dodatku MxToolsSpawn) oraz ekonomię, która wymaga Vault (w dodatku MxToolsEco). Jest to plugin zastępczy do Essentials (https://dev.bukkit.org/projects/essentials) lub EssentialsX (https://www.spigotmc.org/resources/essentialsx.9089/), działa on na wersjach 1.12.2+. Plugin był pisany na spigota, więc na bukkicie może nie działać
+MxTools is an Essential plugin that adds many features, including: chat format (in the MxToolsChat add-on), spawn and players homes (in the MxToolsSpawn add-on) and an economy that requires a Vault (in the MxToolsEco add-on). It is a replacement plugin for Essentials (https://dev.bukkit.org/projects/essentials) or EssentialsX (https://www.spigotmc.org/resources/essentialsx.9089/), it runs on versions 1.12.2+. The plugin was written on spigot, so it may not work on the bukkit
